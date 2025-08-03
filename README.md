@@ -28,12 +28,12 @@ Waniya: "Of course sir, I will now be looking up Karachi's weather - I do hope y
 
 ### Folder Structure:
 project-waniya/ <br>
-├── main.py                 # Entry point for the assistant session
-├── prompts.py              # Agent and session instruction prompts
-├── tools.py                # Custom tools: weather, web, email, save file
-├── .env                    # Environment variables (GMAIL_USER, API keys)
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├── main.py    <br>           
+├── prompts.py <br>
+├── tools.py  <br>
+├── .env     <br>
+├── requirements.txt  <br>
+└── README.md         <br>
 
 ### Run the Assistant:
 python main.py
