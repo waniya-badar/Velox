@@ -28,7 +28,7 @@ Waniya: "Of course sir, I will now be looking up Karachi's weather - I do hope y
 
 ### Folder Structure:
 project-waniya/ <br>
-├── main.py    <br>           
+├── main.py         
 ├── prompts.py <br>
 ├── tools.py  <br>
 ├── .env     <br>
