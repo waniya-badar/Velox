@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2025-07-05 16:11:52
+
+Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of human beings or animals. It is a scientific field dedicated to creating machines capable of performing activities that normally require human intelligence. AI is a broad field, and it includes machine learning, deep learning, and natural language processing.
+
